@@ -1,0 +1,13 @@
+Package: KSCancer
+Title: A tool for Kinase-substrates prediction on Cancer prophoproteomics data
+Version: 0.0.0.9000
+Authors@R: person('Yang', 'Du', email = 'dyang627@gmail.com', role = c('cre', 'aut'))
+Description: KSCancer is a R package and shiny app for cancer specific Kinase-substrates prediction.
+License: MIT + file LICENSE
+Imports: 
+    config (>= 0.3.1),
+    golem (>= 0.3.1),
+    shiny (>= 1.6.0)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
